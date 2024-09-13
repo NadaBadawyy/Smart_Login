@@ -1,0 +1,15 @@
+body{
+    background-color: #24353F;
+}
+::placeholder{
+    color: #b4b2b2 !important;
+}
+a:hover{
+    text-decoration: underline !important;
+}
+.container{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1) !important;
+}
+input{
+    box-shadow: none !important;
+}
